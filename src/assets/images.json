@@ -1,0 +1,22 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "name": "Image 1",
+      "src": "/images/1.png",
+      "alt": "Deskripsi gambar 1"
+    },
+    {
+      "id": 2,
+      "name": "Image 2",
+      "src": "/images/2.png",
+      "alt": "Deskripsi gambar 2"
+    },
+    {
+      "id": 3,
+      "name": "Image 3",
+      "src": "/images/3.png",
+      "alt": "Deskripsi gambar 3"
+    }
+  ]
+}
