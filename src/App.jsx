@@ -1,5 +1,5 @@
 import ImageGallery from "./components/ImageGallery";
-import "./App.css"; // Import CSS untuk styling
+import "./App.css"; 
 
 function App() {
   return (
